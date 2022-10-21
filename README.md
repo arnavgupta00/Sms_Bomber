@@ -9,4 +9,5 @@ Works best with Indian mobile numbers
 
 To try the software in application form refer the
 Drive link - https://drive.google.com/drive/folders/1Ymfay7CWjB5zkIWXEMLPzhCwZydyoqwk?usp=sharing
+
 run bomber_app.exe file
