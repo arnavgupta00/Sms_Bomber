@@ -8,4 +8,5 @@ as I have used selenium so you can see real time bombing I have used around 10 w
 Works best with Indian mobile numbers 
 
 To try the software in application form refer the
-Drive link -
+Drive link - https://drive.google.com/drive/folders/1Ymfay7CWjB5zkIWXEMLPzhCwZydyoqwk?usp=sharing
+run bomber_app.exe file
