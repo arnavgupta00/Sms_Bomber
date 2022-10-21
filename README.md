@@ -1,4 +1,4 @@
-# Sms_bomber
+# Sms Bomber
 
 This is a SMS bomber created by Arnav
 
