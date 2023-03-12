@@ -1,6 +1,6 @@
 # Sms Bomber
 
-This is a SMS bomber created by Arnav
+This is a SMS bomber created by Arnav only for educational purposes and please don't misuse it ..
 
 This software is created by using kivy and selenium
 as I have used selenium so you can see real time bombing I have used around 10 website for bombing , Bomber loads all the websites and then starts to bomb one by one.
